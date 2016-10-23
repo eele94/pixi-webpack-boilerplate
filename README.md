@@ -1,13 +1,11 @@
 # pixi-webpack-boilerplate
-Boilerplate for pixi and webpack
-
-PreLoaders:
+## Boilerplate for pixi with webpack
+**PreLoaders**
 eslint
 
-Loaders:
+**Loaders**
 babel-loader
 css-loader
 sass/scss-loader
 less-loader
 url-loader(fonts and img)
-
