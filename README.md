@@ -4,6 +4,9 @@
 Installing through npm
 `npm install`
 
+Als install webpack dev server
+`npm install -g webpack-dev-server`
+
 Start
 `npm start`
 
@@ -16,4 +19,3 @@ Start
 - sass/scss-loader
 - less-loader
 - url-loader(fonts and img)
-
