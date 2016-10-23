@@ -42,11 +42,6 @@ module.exports = {
         loader: ExtractTextPlugin.extract("style-loader", "!css-loader!autoprefixer-loader!sass-loader")
       },
       {
-        test: /\.less$/,
-        exclude: /node_modules/,
-        loader: ExtractTextPlugin.extract("style-loader", "!css-loader!autoprefixer-loader!less-loader")
-      },
-      {
         test: /\.(png|jpg|ttf|eot|otf)$/,
         exclude: /node_modules/,
         loader: 'url-loader?limit=10000'

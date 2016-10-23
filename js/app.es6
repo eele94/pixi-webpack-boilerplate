@@ -1,7 +1,7 @@
 import {doSomething} from "./test";
 import "./pixi";
 
-require('../css/app.less');
+require('../css/app.scss');
 
 //Aliases
 let Container = PIXI.Container,
