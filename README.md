@@ -2,10 +2,10 @@
 ## Boilerplate for pixi with webpack
 
 Installing through npm
-> npm install
+`npm install`
 
 Start
-> npm start
+`npm start`
 
 **PreLoaders**
 - eslint
