@@ -8,7 +8,7 @@ Als install webpack dev server
 `npm install -g webpack-dev-server`
 
 Start
-`npm start`
+`npm run start`
 
 **PreLoaders**
 - eslint
