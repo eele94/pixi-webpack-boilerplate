@@ -17,5 +17,4 @@ Start
 - babel-loader
 - css-loader
 - sass/scss-loader
-- less-loader
 - url-loader(fonts and img)
